@@ -1,0 +1,20 @@
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.exe.config
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.exe
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.pdb
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final_OperationDungeon.Form1.resources
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final_OperationDungeon.Properties.Resources.resources
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.exe
+C:\Users\tyler\source\repos\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.pdb
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.exe.config
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.exe
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\bin\Debug\Final-OperationDungeon.pdb
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csprojAssemblyReference.cache
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final_OperationDungeon.Form1.resources
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final_OperationDungeon.Properties.Resources.resources
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csproj.GenerateResource.cache
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.csproj.CoreCompileInputs.cache
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.exe
+D:\UCCS\C#\Week 16\Final-OperationDungeon-TylerSchumacher\Final-OperationDungeon\Final-OperationDungeon\obj\Debug\Final-OperationDungeon.pdb
